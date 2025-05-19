@@ -26,7 +26,7 @@ public class SignUp {
         System.out.println("What country is that?");
         String country = scan.nextLine();
 
-        System.out.println("Thank you for joining Regent's Summer Camp!");
+        System.out.println("\nThank you for joining Regent's Summer Camp!");
         System.out.println("\nHere is the information you entered:");
         System.out.println("\tFirst Name: " + firstName);
         System.out.println("\tLast Name: " + lastName);
